@@ -1,0 +1,20 @@
+C:\Users\Caio Luiz\documents\visual studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\bin\Debug\Controle Helicóptero.exe.config
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\WindowsFormsApplication1.tela_inicial.resources
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.csproj.GenerateResource.Cache
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\bin\Debug\Controle Helicóptero.exe
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\bin\Debug\Controle Helicóptero.pdb
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.exe
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.pdb
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.csprojResolveAssemblyReference.cache
+C:\Users\Caio Luiz\Documents\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\WindowsFormsApplication1.tela_visualiza.resources
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\bin\Debug\Controle Helicóptero.exe.config
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.exe
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.pdb
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\bin\Debug\Controle Helicóptero.exe
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\bin\Debug\Controle Helicóptero.pdb
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\WindowsFormsApplication1.tela_inicial.resources
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\WindowsFormsApplication1.tela_visualiza.resources
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Documents\Caio\Visual Studio 2010\Projects\Controle Helicóptero\Controle Helicóptero\obj\x86\Debug\Controle Helicóptero.csproj.GenerateResource.Cache
